@@ -45,10 +45,7 @@ switch(operator)
         }
         break;
 
-        
-
-
-
+    
     default:
         printf("invalid statement");
         break;
